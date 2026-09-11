@@ -19,9 +19,9 @@ Aplicativo em **Flutter** para guardar, organizar e compartilhar seus momentos f
 |---|---|---|
 | ![Início](prints/inicio.png) | ![Menu](prints/menu.png) | ![Menu 2](prints/menu2.png) |
 
-| Home | Modal | Lista vazia |
+| Modal | Lista vazia |
 |---|---|
- ![Modal](prints/modal.png) | ![Vazia](prints/vazia.png) |
+| ![Modal](prints/modal.png) | ![Vazia](prints/vazia.png) |
 
 ## 🛠️ Tecnologias e pacotes utilizados
 
@@ -110,7 +110,7 @@ Foto-flutter/
 ├── pubspec.yaml    # Dependências e metadados do projeto
 └── README.md
 ```
+
 ## 👤 Autor
-Julianopls
 
 Desenvolvido por [@julianopls](https://github.com/julianopls)
